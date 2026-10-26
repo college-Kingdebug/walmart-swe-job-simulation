@@ -1,0 +1,8 @@
+*.class
+__pycache__/
+*.pyc
+*.db
+data/
+.DS_Store
+.idea/
+.vscode/
